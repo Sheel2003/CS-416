@@ -1,0 +1,27 @@
+.answer-button {
+    margin: 2px;
+    padding: 10px 10px;
+}
+
+#score {
+    font-size: 1.9rem;
+    margin-top: 10px;
+}
+
+#reset-button {
+    font-size: 1.2rem;
+}
+
+#feedback {
+    font-size: 2.0rem;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.correct {
+    color: green;
+}
+
+.incorrect {
+    color: red;
+}
